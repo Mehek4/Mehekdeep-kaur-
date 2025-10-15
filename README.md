@@ -1,6 +1,6 @@
 # Mehekdeep-kaur-# LetsDefend Cybersecurity Portfolio – ITECH1502
 
-**Name:** Mehekdeep Kaur / Gurbaaj Singh  
+**Name:** Mehekdeep Kaur  
 **Unit:** ITECH1502 – Cybersecurity Fundamentals  
 **Instructor:** Muhammad Imran  
 **Date:** October 2025  
